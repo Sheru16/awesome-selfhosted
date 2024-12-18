@@ -1763,6 +1763,7 @@ Software for easy installation, management and configuration of self-hosted serv
 - [Svix](https://svix.com) - Open-source webhooks as a service that makes it super easy for API providers to send webhooks. ([Source Code](https://github.com/svix/svix-webhooks)) `MIT` `Docker/Rust`
 - [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
 - [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
+- [Composio](https://composio.dev/) - Integration Platform for AI Agents & LLMs with support for 250+ Apps and custom tools. ([Source Code](https://github.com/ComposioHQ/composio)) `TypeScript` `Python`
 
 
 ### Software Development - Continuous Integration & Deployment
